@@ -1,3 +1,7 @@
+#Titulo: Análisis de rendimientos vs riesgo de META Y APPLE
+#Archivo: Rendimientos_APPLE_META.R
+#Author: Laura Lizbeth Sanchez Ramirez
+
 library(quantmod)
 library(FinTS)
 library(xts)
